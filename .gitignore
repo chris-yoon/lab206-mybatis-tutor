@@ -24,7 +24,7 @@
 .settings/
 .project
 .classpath
-
+.springBeans
 .git/
 .svn/
 
